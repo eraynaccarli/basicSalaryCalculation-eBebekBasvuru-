@@ -1,7 +1,7 @@
 # basicSalaryCalculation(eBebekBasvuru)
 
 Application sınıfı main sınıfımız.
-Emplooye sınıfı propertiy ile gerekli methodların bulunduğu model sınıfımız.
+Emplooye sınıfı properties ve gerekli methodların bulunduğu model sınıfımız.
 
 Uygulama çalışdığında
 Veri girişini consol yardımıyla dışardan Scanner kullanarak alıyoruz.
