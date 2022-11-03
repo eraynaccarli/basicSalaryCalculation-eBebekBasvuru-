@@ -53,7 +53,7 @@ public class Emplooye {
 			return (this.salary*5)/100;
 		}
 		if(workingYear > 9 && workingYear < 20 ) {
-			return (this.salary*20)/100;
+			return (this.salary*10)/100;
 		}
 		if(workingYear > 19) {
 			return (this.salary*15)/100;
